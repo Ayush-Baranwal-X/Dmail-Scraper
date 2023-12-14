@@ -1,0 +1,3 @@
+# Files to be ignored
+# This file will be generated when the script runs
+/output.txt
